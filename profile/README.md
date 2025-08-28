@@ -1,4 +1,4 @@
-What We Do
+## What We Do
 
 At **Polar Productions**, we're focused on launching and scaling modern SaaS projects.  
 To streamline development, we build and maintain internal templates for frontend and backend systems.
